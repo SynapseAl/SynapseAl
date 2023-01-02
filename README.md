@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SynapseAl
 - 👀 I’m interested in Python, Java, JavaScript
-- 🌱 I’m currently learning Python/C
+- 🌱 I’m currently learning Python
